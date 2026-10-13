@@ -1,0 +1,461 @@
+[
+ {
+  "id": 589,
+  "name": "冬刃豹训练师",
+  "name_en": "Wintersaber Trainers",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 83,
+  "name": "制皮 - 元素",
+  "name_en": "Leatherworking - Elemental",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 549,
+  "name": "制皮 - 部落",
+  "name_en": "Leatherworking - Tribal",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 86,
+  "name": "制皮 - 龙鳞",
+  "name_en": "Leatherworking - Dragonscale",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 369,
+  "name": "加基森",
+  "name_en": "Gadgetzan",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 92,
+  "name": "吉尔吉斯半人马",
+  "name_en": "Gelkis Clan Centaur",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 108,
+  "name": "塞拉摩",
+  "name_en": "Theramore",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 609,
+  "name": "塞纳里奥议会",
+  "name_en": "Cenarion Circle",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 76,
+  "name": "奥格瑞玛",
+  "name_en": "Orgrimmar",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 551,
+  "name": "工程学 - 侏儒",
+  "name_en": "Engineering - Gnome",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 550,
+  "name": "工程学 - 地精",
+  "name_en": "Engineering - Goblin",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 68,
+  "name": "幽暗城",
+  "name_en": "Undercity",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 1011,
+  "name": "库尔提拉斯",
+  "name_en": "Kul Tiras",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 893,
+  "name": "恶齿巨魔",
+  "name_en": "Revantusk Trolls",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 889,
+  "name": "战歌氏族",
+  "name_en": "Warsong Outriders",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 349,
+  "name": "拉文霍德",
+  "name_en": "Ravenholdt",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 1007,
+  "name": "时光守护者",
+  "name_en": "Wardens of Time",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 909,
+  "name": "暗月马戏团",
+  "name_en": "Darkmoon Faire",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 530,
+  "name": "暗矛巨魔",
+  "name_en": "Darkspear Trolls",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 72,
+  "name": "暴风城",
+  "name_en": "Stormwind",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 576,
+  "name": "木喉要塞",
+  "name_en": "Timbermaw Hold",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 1001,
+  "name": "杜隆塔尔工会",
+  "name_en": "Durotar Labor Union",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 470,
+  "name": "棘齿城",
+  "name_en": "Ratchet",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 577,
+  "name": "永望镇",
+  "name_en": "Everlook",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 510,
+  "name": "污染者",
+  "name_en": "The Defilers",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 749,
+  "name": "海达希亚水元素",
+  "name_en": "Hydraxian Waterlords",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 1008,
+  "name": "热砂血环",
+  "name_en": "Steamwheedle Blood Ring",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 169,
+  "name": "热砂财团",
+  "name_en": "Steamwheedle Cartel",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 93,
+  "name": "玛格拉姆半人马",
+  "name_en": "Magram Clan Centaur",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 59,
+  "name": "瑟银兄弟会",
+  "name_en": "Thorium Brotherhood",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 469,
+  "name": "联盟",
+  "name_en": "Alliance",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 21,
+  "name": "藏宝海湾",
+  "name_en": "Booty Bay",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 471,
+  "name": "蛮锤部族",
+  "name_en": "Wildhammer Clan",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 87,
+  "name": "血帆海盗",
+  "name_en": "Bloodsail Buccaneers",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 910,
+  "name": "诺兹多姆的子嗣",
+  "name_en": "Brood of Nozdormu",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 54,
+  "name": "诺莫瑞根流亡者",
+  "name_en": "Gnomeregan Exiles",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 270,
+  "name": "赞达拉部族",
+  "name_en": "Zandalar Tribe",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 809,
+  "name": "辛德拉",
+  "name_en": "Shen'dralar",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 70,
+  "name": "辛迪加",
+  "name_en": "Syndicate",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 61,
+  "name": "达拉然",
+  "name_en": "Dalaran",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 69,
+  "name": "达纳苏斯",
+  "name_en": "Darnassus",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 67,
+  "name": "部落",
+  "name_en": "Horde",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 29,
+  "name": "野兽 - 狼",
+  "name_en": "Beast - Wolf",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 47,
+  "name": "铁炉堡",
+  "name_en": "Ironforge",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 269,
+  "name": "银月幸存者",
+  "name_en": "Silvermoon Remnant",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 890,
+  "name": "银翼要塞",
+  "name_en": "Silverwing Sentinels",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 529,
+  "name": "银色黎明",
+  "name_en": "Argent Dawn",
+  "name_en_num": 0,
+  "side": "",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 509,
+  "name": "阿拉索联军",
+  "name_en": "The League of Arathor",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 730,
+  "name": "雷矛卫队",
+  "name_en": "Stormpike Guard",
+  "name_en_num": 0,
+  "side": "1",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 81,
+  "name": "雷霆崖",
+  "name_en": "Thunder Bluff",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ },
+ {
+  "id": 729,
+  "name": "霜狼氏族",
+  "name_en": "Frostwolf Clan",
+  "name_en_num": 0,
+  "side": "2",
+  "_cat": "factions",
+  "_page": "p0001.html"
+ }
+]

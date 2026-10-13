@@ -1,0 +1,15 @@
+# 原始 HTML 缓存（运行时生成，可由 scripts/fetch.py 重抓）
+raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
